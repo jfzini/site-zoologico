@@ -32,7 +32,6 @@ Obrigada!
 
 ![Imagem](img/site.png)
 
-ps: os arquivos estão na mesma pasta dessa atividade, dentro da pasta img.
 
 ------------
 
