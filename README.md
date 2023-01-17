@@ -5,22 +5,6 @@
 
 Fazer um site de acordo com o que foi requisitado pelo cliente.
 
-### :speech_balloon: Cenário: 
-
-Depois do trabalho M-A-R-A-V-I-L-H-O-S-O que vcs fizeram gerando aquele relatório do zoológico, vcs foram contratados novamente por uma empresa para fazer um site simples contendo algumas informações sobre o zoologico. 
-
-Aqui teremos descrito alguns pontos que esse site deverá ter, mas preste bem atenção. 
-
-Eu vou contar tudo que o site vai ter mas será necessário que você separe cada item a ser feito, fazendo uma certa divisão, ou seja coloque o passo 1, passo 2... Assim como temos feito na duas últimas atividades da Academia de lógica.
-
-por exemplo:
-
-```
-Passo/Requisito 1: criar cabeçalho do site
-
-Passo/Requisito 2: .....
-```
-
 ### Email do Cliente: :email:
 
 ```
@@ -52,9 +36,3 @@ ps: os arquivos estão na mesma pasta dessa atividade, dentro da pasta img.
 
 ------------
 
-### Depois dessa divisão de "requisitos” vamos para a prática! 
-
-- Crie um repositório no github, chamado site-zoológico.
-- **Adicione um README a esse repositório**
-- Clone esse repositório
-- Crie um arquivo index.html e comece o site do cliente.
